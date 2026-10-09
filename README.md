@@ -1,0 +1,2 @@
+# premium-segmented-turn-001-segmented-bowl-ring-calculator
+Stop wrestling with spreadsheets and scribbled notes. The Segmented Bowl Ring Calculator brings precise ring geometry directly into your Notion workspace, so you can design, calculate, and track every segmented bowl from one place.  This Notion template turns your calculation process into a seamless part of your project management. No more switchin
